@@ -10,7 +10,12 @@ body {
 }
 
 
+.header-text{
+    font-family: 'Verdana';
+    color: #96B6C5;
+    font-size: 55px;
 
+}
 
 
 .header {
@@ -43,13 +48,18 @@ body {
     padding-left: 22px;
     margin-left: 22px;
 }
+
+#description-container{
+    
+
+}
 .stats-container:hover {
     cursor: pointer;
     box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
-    background-color: #EEE0C9;
+    background-color: #EEE0C9 ;
     border-radius: 7px;
     padding: 1%;
     margin: 1%;
@@ -100,3 +110,4 @@ button {
     border-radius: 7px;
     background: #ADC4CE;
 }
+

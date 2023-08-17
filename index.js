@@ -191,3 +191,12 @@ firstGameContainer.appendChild(topGame);
 const topGame2 = document.createElement('p');
 topGame2.textContent = sortedGames[1].name;
 secondGameContainer.appendChild(topGame2);
+
+const ourGamesLink = document.querySelector('a[href="#our-games"]');
+
+ourGamesLink.addEventListener('click', (event) => {
+    event.preventDefault(); // Prevent default link behavior
+    
+    const gamesSection = document.getElementById('our-games');
+    gamesSection.scrollIntoView({ behavior: 'smooth' });
+});
