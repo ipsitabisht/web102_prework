@@ -18,15 +18,16 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [x] Nav bar that has button to jump to "Our Games" section
+* [x] Changed up color scheme 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/gRcmTbC' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LICEcap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -34,7 +35,7 @@ GIF created with ...
 
 ## Notes
 
-Some challenges encountered while working on this website was familiarizing myself with the JavaScript syntax. 
+Some challenges encountered while working on this website was familiarizing myself with the JavaScript syntax. I also had to be attentive to what classes/ids I was using for the elements since that was how I can identify them and alter them. Other challenges I encountered were just about understanding how to use the filter, reduce, map, and filter functions.
 
 ## License
 
