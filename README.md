@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 <!-- <a href="https://imgur.com/gRcmTbC"><img src="https://i.imgur.com/gRcmTbC.gif" title="source: imgur.com" /></a> -->
-![Video Walkthrough](https://i.imgur.com/gRcmTbC.gif)
+![Video Walkthrough](web102walkthrough.gif)
 <img src='https://i.imgur.com/gRcmTbC.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
